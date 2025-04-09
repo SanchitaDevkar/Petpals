@@ -1,0 +1,3 @@
+Dog,Bruno,3,Labrador,Golden
+Cat,Misty,2,Persian,White
+Dog,Rocky,4,Beagle,Brown
